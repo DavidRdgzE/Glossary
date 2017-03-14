@@ -1,0 +1,43 @@
+html{
+	background-image: url("../public/images/back.jpg");
+}
+
+h1{
+	text-align: center;
+	font-style: italic;
+	color: #095bf2;
+}
+
+h3.letter{
+	text-align: center;
+	color: #a80303;
+}
+
+a{
+	color: #0d1077;
+	font-style: italic;
+}
+
+.list{
+	list-style: none;
+}
+
+article{
+	display:inline-table;
+	width: 20%;
+	height: 250px;
+	border: 3px solid white;
+	text-align: left;
+	font-size: 1.2em;
+	background-image: url("../public/images/art.jpg");
+}
+
+.primary{
+	text-align: center;
+}
+
+footer{
+	padding-top: 50px;
+	color: white;
+	text-align: center;
+}
